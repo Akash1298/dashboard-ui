@@ -27,26 +27,24 @@ A modern and responsive Dashboard UI built using **React**, **Vite**, and **Tail
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Folder Structure
 
-dashboard-ui/
-├── public/
-├── src/
-│ ├── assets/ # Static files
-│ ├── components/ # Reusable components
-│ │ ├── Sidebar.jsx
-│ │ ├── Header.jsx
-│ │ ├── StatsCard.jsx
-│ │ └── ChartSection.jsx
-│ ├── data/
-│ │ └── dummyData.js # Sample data
-│ ├── App.jsx # Main layout
-│ └── main.jsx # Entry point
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
-
-
+- `dashboard-ui/`
+  - `public/`
+  - `src/`
+    - `assets/` – Static files
+    - `components/` – Reusable components
+      - `Sidebar.jsx`
+      - `Header.jsx`
+      - `StatsCard.jsx`
+      - `ChartSection.jsx`
+    - `data/`
+      - `dummyData.js` – Sample data
+    - `App.jsx` – Main layout
+    - `main.jsx` – Entry point
+  - `tailwind.config.js`
+  - `vite.config.js`
+  - `README.md`
 
 ---
 
